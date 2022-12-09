@@ -1,0 +1,1 @@
+Login form 11 ZIP sebatas untuk menyimpan template login yang telah di unduh dari internet. Alasan saya menyimpan di sini adalah karena saya malas mencari lagi sebuah template login untuk aplikasi web saya nanti untuk kedepannya.
